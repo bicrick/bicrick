@@ -1,6 +1,6 @@
 # Patrick Brown
 
-Data Engineer II. Agents, RL environments, and data platforms. Austin, TX. Relocating to San Francisco.
+ML Platform Engineer at H-E-B. Agents, RL environments, and data platforms. Austin, TX. Relocating to San Francisco.
 
 I work at [H-E-B](https://www.heb.com/). I build with [Cursor](https://cursor.com/@bicrick) and Claude Code.
 
