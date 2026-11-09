@@ -1,7 +1,15 @@
-# Patrick Brown
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg">
+    <img alt="Patrick Brown's GitHub Profile README" src="./light_mode.svg" width="900">
+  </picture>
+</p>
 
-Platform Engineer at H-E-B. Agents, RL environments, and data platforms. Austin, TX. Relocating to San Francisco.
-
-I work at [H-E-B](https://www.heb.com/). I build with [Cursor](https://cursor.com/@bicrick) and Claude Code.
-
-[QWOP world record](https://bicrick.com/projects/qwop-python) · [bicrick.com](https://bicrick.com) · [resume](https://resume.bicrick.com/) · [x](https://x.com/patrickbbrown)
+<p align="center">
+  <a href="https://www.bicrick.com">Website</a> ·
+  <a href="https://resume.bicrick.com">Resume</a> ·
+  <a href="https://www.linkedin.com/in/patrick-brown-dev">LinkedIn</a> ·
+  <a href="https://x.com/patrickbbrown">X</a> ·
+  <a href="mailto:patrickbrownai@gmail.com">Email</a> ·
+  <a href="https://github.com/bicrick">GitHub</a>
+</p>
