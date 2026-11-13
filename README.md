@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.bicrick.com">Website</a> ·
+  <a href="https://patrickbrown.dev">patrickbrown.dev</a> ·
   <a href="https://resume.bicrick.com">Resume</a> ·
   <a href="https://www.linkedin.com/in/patrick-brown-dev">LinkedIn</a> ·
   <a href="https://x.com/patrickbbrown">X</a> ·
